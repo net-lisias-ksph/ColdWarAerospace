@@ -1,5 +1,7 @@
 # Cold War Aerospace :: Change Log
 
+* 2021-1012: 0.4.1 (L0ck0n) for KSP 1.12.2
+	+ Fixes (models, textures, configs), IVA portraits.
 * 2021-0926: 0.4 (L0ck0n) for KSP 1.12.2
 	+ New cargo plane parts, many fixes (wheels should work properly now), radial parts (Starlifter cockpit - WiP), custom bulkhead profiles
 		- https://i.imgur.com/6ydM5jp.png 
